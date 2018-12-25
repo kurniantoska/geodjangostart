@@ -1,0 +1,8 @@
+cffi==1.11.5
+Django==2.1.4
+GDAL==1.10.0
+greenlet==0.4.13
+psycopg2cffi==2.8.1
+pytz==2018.7
+readline==6.2.4.1
+six==1.12.0
