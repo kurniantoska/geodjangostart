@@ -1,0 +1,696 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "osm3s": {
+    "timestamp_osm_base": "2018-12-24T23:59:02Z",
+    "timestamp_areas_base": "2018-12-24T23:55:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1645046841,
+      "lat": 0.5377136,
+      "lon": 123.0622779,
+      "tags": {
+        "addr:city": "Gorontalo",
+        "addr:street": "Jalan Sultan Botutihe",
+        "name": "Gorontalo Mall",
+        "opening_hours": "10:00-22:00",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "wikidata": "Q12484417",
+        "wikipedia": "id:Gorontalo Mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1645046858,
+      "lat": 0.5439922,
+      "lon": 123.05717,
+      "tags": {
+        "name": "Mega Zanur Mall (KFC)",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3033778596,
+      "lat": 0.5363535,
+      "lon": 123.0589686,
+      "tags": {
+        "addr:street": "Jalan S. Parman",
+        "name": "Mall Karsa Utama",
+        "opening_hours": "09:00-22:00",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3033790177,
+      "lat": 0.534174,
+      "lon": 123.0585811,
+      "tags": {
+        "addr:city": "Gorontalo",
+        "addr:street": "Jalan S. Parman",
+        "name": "Santika Mall",
+        "opening_hours": "10:00-22:00",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3033859879,
+      "lat": 0.5370612,
+      "lon": 123.0576329,
+      "tags": {
+        "addr:city": "Gorontalo",
+        "addr:street": "Jalan Suprapto",
+        "name": "Toko Samajaya",
+        "opening_hours": "09:00-22:00",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3033860021,
+      "lat": 0.5367692,
+      "lon": 123.0576077,
+      "tags": {
+        "addr:city": "Gorontalo",
+        "addr:street": "Jalan Suprapto",
+        "name": "Toko Bin Yusuf",
+        "opening_hours": "09:00-22:00",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3131424292,
+      "lat": 0.5767255,
+      "lon": 123.1121353,
+      "tags": {
+        "addr:city": "Gorontalo",
+        "name": "Toko Budiman",
+        "opening_hours": "08:00-17:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3131450428,
+      "lat": 0.5742527,
+      "lon": 123.1139297,
+      "tags": {
+        "addr:city": "Gorontalo",
+        "addr:street": "Jl. Zainal Umar Sidiki",
+        "name": "Toko Nonim Jaya",
+        "opening_hours": "08:00-17:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3235476838,
+      "lat": 0.5519172,
+      "lon": 123.063334,
+      "tags": {
+        "addr:city": "Gorontalo",
+        "addr:housenumber": "128",
+        "addr:postcode": "96115",
+        "addr:street": "Nani Wartabone",
+        "name": "MariMart",
+        "operator": "https://www.facebook.com/marimart.gorontalo?fref=ts",
+        "shop": "supermarket",
+        "website": "https://www.facebook.com/marimart.gorontalo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3308677377,
+      "lat": 0.5633875,
+      "lon": 123.1211599,
+      "tags": {
+        "name": "Toko Isni",
+        "opening_hours": "08:00-23:00",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3313278371,
+      "lat": 0.5529825,
+      "lon": 123.0594346,
+      "tags": {
+        "addr:city": "Gorontalo",
+        "addr:street": "Jalan Jendral Sudirman",
+        "name": "Distro Corner",
+        "opening_hours": "08:30-20:00",
+        "shop": "fashion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3313595986,
+      "lat": 0.5754505,
+      "lon": 123.1105753,
+      "tags": {
+        "addr:street": "Jalan HB. Yasin",
+        "name": "Bengel",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3313609922,
+      "lat": 0.565374,
+      "lon": 123.1177019,
+      "tags": {
+        "addr:street": "JALAN KASMAT LAHAY",
+        "name": "Bengkel",
+        "opening_hours": "08:00-23:00",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3313618161,
+      "lat": 0.5645935,
+      "lon": 123.1200596,
+      "tags": {
+        "name": "Bengkel",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3315940878,
+      "lat": 0.560915,
+      "lon": 123.10362,
+      "tags": {
+        "name": "Bengkel",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3315940958,
+      "lat": 0.5741384,
+      "lon": 123.1088639,
+      "tags": {
+        "addr:street": "Jalan HB. Yasin",
+        "name": "RUKO",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3315951827,
+      "lat": 0.5751267,
+      "lon": 123.1134656,
+      "tags": {
+        "name": "Bengkel",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3315952387,
+      "lat": 0.5685574,
+      "lon": 123.1159145,
+      "tags": {
+        "name": "Outlet Pembayaran Listrik",
+        "shop": "ticket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3315953390,
+      "lat": 0.5674897,
+      "lon": 123.1164056,
+      "tags": {
+        "name": "Jual Gas dan Oli",
+        "shop": "ticket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3320039076,
+      "lat": 0.5383201,
+      "lon": 123.0693863,
+      "tags": {
+        "addr:city": "Gorontalo",
+        "addr:street": "JALAN SULTAN BOTUTIHE",
+        "name": "Toko Farfum Arifah",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3320045931,
+      "lat": 0.5462858,
+      "lon": 123.0797664,
+      "tags": {
+        "addr:city": "Gorontalo",
+        "addr:street": "JALAN PROF. DR ALOEI SABOE",
+        "name": "Toko Sulung Agung",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3324301574,
+      "lat": 0.5370753,
+      "lon": 123.0607552,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "JALAN SULTAN BOTUTIHE",
+        "name": "Optik Swadaya",
+        "phone": "+62 435 823974",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3326395964,
+      "lat": 0.572049,
+      "lon": 123.1250838,
+      "tags": {
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3326398618,
+      "lat": 0.5722649,
+      "lon": 123.1250959,
+      "tags": {
+        "addr:street": "Jl. Zainal Umar Sidiki",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3383954420,
+      "lat": 0.5417116,
+      "lon": 123.076069,
+      "tags": {
+        "addr:city": "Gorontalo",
+        "addr:housenumber": "29",
+        "addr:street": "JALAN PROF. DR ALOEI SABOE",
+        "name": "SURYA BARBER SHOP (SBS)",
+        "opening_hours": "12:00 - 21:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4138904095,
+      "lat": 0.5430906,
+      "lon": 123.0437358,
+      "tags": {
+        "addr:housenumber": "323-325",
+        "addr:street": "Jalan Raja Eyato",
+        "internet_access": "wlan",
+        "name": "Neo Photography",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+6285340046888",
+        "shop": "photo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4138979790,
+      "lat": 0.5431176,
+      "lon": 123.0436898,
+      "tags": {
+        "addr:housenumber": "323-325",
+        "addr:street": "Jalan Raja Eyato",
+        "email": "neo_cellular@yahoo.co.id",
+        "internet_access": "wlan",
+        "name": "Neo Care",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+6285340046888",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4838744922,
+      "lat": 0.564457,
+      "lon": 123.0806483,
+      "tags": {
+        "addr:street": "Jalan Brigjend Amir Piola Isa",
+        "name:en": "Happy Petshop",
+        "phone": "+62 822 28005431",
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5406636624,
+      "lat": 0.5369136,
+      "lon": 123.0598042,
+      "tags": {
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5406641722,
+      "lat": 0.5368604,
+      "lon": 123.0597978,
+      "tags": {
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5475484622,
+      "lat": 0.5736576,
+      "lon": 123.1174122,
+      "tags": {
+        "addr:housenumber": "232",
+        "addr:postcode": "96583",
+        "addr:street": "Jalan Akase",
+        "email": "insanraya@gmail.com",
+        "name:en": "DAENG PHOTOCOPY",
+        "opening_hours": "Mo-Su 07:30-21:30",
+        "phone": "085394408278",
+        "shop": "copyshop",
+        "website": "http://www.insanraya.blogspot.co.id"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5542480622,
+      "lat": 0.7808773,
+      "lon": 122.8630565,
+      "tags": {
+        "name:en": "Alfamart",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5830232687,
+      "lat": 0.5367749,
+      "lon": 123.0631846,
+      "tags": {
+        "name:en": "Indomaret",
+        "name:fr": "Indomaret",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5830232688,
+      "lat": 0.5354949,
+      "lon": 123.0594792,
+      "tags": {
+        "name:en": "Indomaret",
+        "name:fr": "Indomaret",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5830247285,
+      "lat": 0.5342624,
+      "lon": 123.0636217,
+      "tags": {
+        "name:en": "Laundry",
+        "name:fr": "Laverie",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5845289786,
+      "lat": 0.562841,
+      "lon": 123.0990783,
+      "tags": {
+        "addr:street": "Jalan Noho Hudji",
+        "name:en": "Jusmin Jaya",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 538185750,
+      "nodes": [
+        5209851247,
+        5209851244,
+        5209851245,
+        5209851246,
+        5209851247
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Toko Sinar Sejahtera",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 538185977,
+      "nodes": [
+        5209852612,
+        5209852611,
+        5209852610,
+        5209852609,
+        5209852612
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Toko Bangunan Sinar Sejahtera",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "type": "way",
+      "id": 538404841,
+      "nodes": [
+        5211523614,
+        5211523613,
+        5211523612,
+        5211523611,
+        5211523614
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 596037773,
+      "nodes": [
+        5679165642,
+        5679165641,
+        5679165640,
+        5679165639,
+        5679165642
+      ],
+      "tags": {
+        "name": "INDOMARET",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 596037774,
+      "nodes": [
+        5679165646,
+        5679165645,
+        5679165644,
+        5679165643,
+        5679165646
+      ],
+      "tags": {
+        "name": "Q-Mart II",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 599327344,
+      "nodes": [
+        5702183288,
+        5702183287,
+        5702183286,
+        5702183285,
+        5702183284,
+        5702183283,
+        5702183282,
+        5702183288
+      ],
+      "tags": {
+        "name": "Fathan Vape Shop",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5209851244,
+      "lat": 0.6433621,
+      "lon": 122.8888604
+    },
+    {
+      "type": "node",
+      "id": 5209851245,
+      "lat": 0.642925,
+      "lon": 122.8888148
+    },
+    {
+      "type": "node",
+      "id": 5209851246,
+      "lat": 0.6429335,
+      "lon": 122.8887333
+    },
+    {
+      "type": "node",
+      "id": 5209851247,
+      "lat": 0.6433706,
+      "lon": 122.8887789
+    },
+    {
+      "type": "node",
+      "id": 5209852609,
+      "lat": 0.6439312,
+      "lon": 122.8885335
+    },
+    {
+      "type": "node",
+      "id": 5209852610,
+      "lat": 0.6436013,
+      "lon": 122.8884825
+    },
+    {
+      "type": "node",
+      "id": 5209852611,
+      "lat": 0.6435705,
+      "lon": 122.8886823
+    },
+    {
+      "type": "node",
+      "id": 5209852612,
+      "lat": 0.6439003,
+      "lon": 122.8887333
+    },
+    {
+      "type": "node",
+      "id": 5211523611,
+      "lat": 0.6430623,
+      "lon": 122.8902709
+    },
+    {
+      "type": "node",
+      "id": 5211523612,
+      "lat": 0.6430556,
+      "lon": 122.8903943
+    },
+    {
+      "type": "node",
+      "id": 5211523613,
+      "lat": 0.6431413,
+      "lon": 122.8903989
+    },
+    {
+      "type": "node",
+      "id": 5211523614,
+      "lat": 0.643148,
+      "lon": 122.8902756
+    },
+    {
+      "type": "node",
+      "id": 5702183282,
+      "lat": 0.5649418,
+      "lon": 123.0337496
+    },
+    {
+      "type": "node",
+      "id": 5702183283,
+      "lat": 0.565027,
+      "lon": 123.0339079
+    },
+    {
+      "type": "node",
+      "id": 5702183284,
+      "lat": 0.5651021,
+      "lon": 123.0338589
+    },
+    {
+      "type": "node",
+      "id": 5702183285,
+      "lat": 0.5650713,
+      "lon": 123.0337912
+    },
+    {
+      "type": "node",
+      "id": 5702183286,
+      "lat": 0.5651229,
+      "lon": 123.0337603
+    },
+    {
+      "type": "node",
+      "id": 5702183287,
+      "lat": 0.5651443,
+      "lon": 123.0337221
+    },
+    {
+      "type": "node",
+      "id": 5702183288,
+      "lat": 0.5651095,
+      "lon": 123.0336309
+    },
+    {
+      "type": "node",
+      "id": 5679165639,
+      "lat": 0.5666383,
+      "lon": 123.0418164
+    },
+    {
+      "type": "node",
+      "id": 5679165640,
+      "lat": 0.5666798,
+      "lon": 123.0418445
+    },
+    {
+      "type": "node",
+      "id": 5679165641,
+      "lat": 0.5667348,
+      "lon": 123.0417614
+    },
+    {
+      "type": "node",
+      "id": 5679165642,
+      "lat": 0.5667,
+      "lon": 123.0417305
+    },
+    {
+      "type": "node",
+      "id": 5679165643,
+      "lat": 0.5663915,
+      "lon": 123.0420309
+    },
+    {
+      "type": "node",
+      "id": 5679165644,
+      "lat": 0.566067,
+      "lon": 123.0418445
+    },
+    {
+      "type": "node",
+      "id": 5679165645,
+      "lat": 0.5661434,
+      "lon": 123.0416983
+    },
+    {
+      "type": "node",
+      "id": 5679165646,
+      "lat": 0.5664653,
+      "lon": 123.0418834
+    }
+  ]
+}
